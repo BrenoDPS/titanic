@@ -1,4 +1,4 @@
-# Titanic Challenge Notebook ReadMe
+# Titanic Challenge
 
 ## Overview
 
